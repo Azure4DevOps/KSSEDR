@@ -1,0 +1,19 @@
+[
+   {
+      "id":"00eccf70-95a7-4e7c-8299-2eb17ee9ad64",
+      "source":"/subscriptions/75a684cb-bc7f-4283-9a5e-64472c4f680b/resourceGroups/rotateExample-dev-euw-rg/providers/Microsoft.KeyVault/vaults/rotateexam-dev-euw-kv",
+      "subject":"SecretNearExpiry",
+      "type":"Microsoft.KeyVault.SecretNearExpiry",
+      "time":"2019-07-25T01:08:33.1036736Z",
+      "data":{
+         "Id":"https://rotateexam-dev-euw-kv.vault.azure.net/secrets/blob-connection-string/fb87f021a36946c69bb0108ac694733b",         
+         "VaultName":"rotateexam-dev-euw-kv",
+         "ObjectType":"Secret",
+         "ObjectName":"blob-connection-string",
+         "Version":"aaa",
+         "NBF":"1559081980",
+         "EXP":"1559082102"
+      },
+      "specversion":"1.0"
+   }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "Microsoft.Azure.WebJobs.Extensions.EventGrid",
+    "majorVersion": "3",
+    "name": "EventGrid",
+    "bindings": [
+      "eventgridtrigger",
+      "eventgrid"
+    ]
+  }
+]
